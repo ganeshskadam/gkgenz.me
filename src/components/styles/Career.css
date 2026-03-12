@@ -59,10 +59,14 @@
 }
 
 .career-info h3 {
-  font-size: 48px;
+  font-size: 20px;
   margin: 0;
   font-weight: 500;
-  line-height: 45px;
+  line-height: 26px;
+  white-space: nowrap;
+  align-self: flex-start;
+  padding-top: 4px;
+  opacity: 0.85;
 }
 
 .career-info h4 {
@@ -110,30 +114,29 @@
   animation: timeline 0.8s linear infinite forwards;
 }
 
-/* Divider between Work and Education */
 .career-divider {
   display: flex;
   align-items: center;
-  width: 100%;
-  margin: 20px 0 50px 0;
-  gap: 16px;
-}
-
-.career-divider::before,
-.career-divider::after {
-  content: "";
-  flex: 1;
-  height: 1px;
-  background-color: rgba(255, 255, 255, 0.2);
+  width: 42%;
+  margin: 0 0 50px 0;
+  gap: 12px;
 }
 
 .career-divider span {
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: var(--accentColor);
   white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.career-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, rgba(20, 184, 166, 0.5), transparent);
 }
 
 @keyframes timeline {
@@ -185,7 +188,8 @@
   }
 
   .career-info h3 {
-    font-size: 40px;
+    font-size: 17px;
+    line-height: 23px;
   }
 
   .career-info-box p {
@@ -199,6 +203,10 @@
 
   .career-info-box p {
     width: 45%;
+  }
+
+  .career-divider {
+    width: 44%;
   }
 }
 
@@ -234,7 +242,9 @@
   }
 
   .career-divider {
+    width: 100%;
     padding-left: 10%;
+    box-sizing: border-box;
   }
 }
 
@@ -255,7 +265,8 @@
   }
 
   .career-info h3 {
-    font-size: 33px;
+    font-size: 15px;
+    line-height: 21px;
   }
 
   .career-info-in,
