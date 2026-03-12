@@ -20,7 +20,7 @@ const Career = () => {
                 <h4>Trainee Engineer - AWS</h4>
                 <h5>ProAzure Software Solutions Pvt. Ltd</h5>
               </div>
-              <h3>1 Jan –<br />31 Jan<br />2026</h3>
+              <h3>1 Jan – 31 Jan 2026</h3>
             </div>
             <p>
               Completed 1-month training in AWS cloud technologies and solutions
@@ -36,7 +36,7 @@ const Career = () => {
                 <h4>Software Development Intern</h4>
                 <h5>Fourise Software Solutions Pvt. Ltd</h5>
               </div>
-              <h3>May –<br />July<br />2023</h3>
+              <h3>May – July 2023</h3>
             </div>
             <p>
               Developed and maintained web applications using HTML, CSS,
@@ -59,7 +59,7 @@ const Career = () => {
                 <h4>Diploma in Computer Engineering</h4>
                 <h5>MSSMPITR, Akluj</h5>
               </div>
-              <h3>2021 –<br />2024</h3>
+              <h3>2021 – 2024</h3>
             </div>
             <p>
               Completed Diploma in Computer Engineering with 81.14% from
@@ -74,7 +74,7 @@ const Career = () => {
                 <h4>Bachelor of Engineering - Computer Engineering</h4>
                 <h5>S B Patil College of Engineering, Savitribai Phule Pune University</h5>
               </div>
-              <h3>2024 –<br />2027</h3>
+              <h3>2024 – 2027</h3>
             </div>
             <p>
               Currently pursuing BE in Computer Engineering at S B Patil College
