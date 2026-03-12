@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Trainee Engineer - AWS</h4>
+                <h5>ProAzure Software Solutions Pvt. Ltd</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Jan 2026</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Completed training in AWS cloud technologies and solutions architecture. Worked with AWS services including EC2, S3, RDS, Lambda, and CloudFormation. Participated in cloud infrastructure deployment, monitoring, and optimization projects.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Software Development Intern</h4>
+                <h5>Fourise Software Solutions Pvt. Ltd</h5>
               </div>
-              <h3>2021</h3>
+              <h3>May 2023 – July 2023</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Developed and maintained web applications using HTML, CSS, JavaScript, and PHP. Collaborated with cross-functional teams to implement new features and resolve technical issues. Participated in code reviews and adopted best practices for clean, maintainable code.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Bachelor of Engineering - Computer Engineering</h4>
+                <h5>Savitribai Phule Pune University</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Currently pursuing BE in Computer Engineering at S B Patil College of Engineering, Vangali, Indapur. SE SGPA: 8.615. Previously completed Diploma in Computer Engineering with 81.14% from MSSMPITR, Akluj.
             </p>
           </div>
         </div>
