@@ -57,13 +57,13 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Diploma in Computer Engineering</h4>
-                <h5>MSSMPITR, Akluj</h5>
+                <h5>SMSMPITR Akluj,Maharashtra State Board of Technical Education (MSBTE)</h5>
               </div>
               <h3>2021 – 2024</h3>
             </div>
             <p>
               Completed Diploma in Computer Engineering with 81.14% from
-              MSSMPITR, Akluj under the Maharashtra State Board of Technical
+              SMSMPITR, Akluj under the Maharashtra State Board of Technical
               Education (MSBTE).
             </p>
           </div>
